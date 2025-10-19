@@ -60,4 +60,5 @@ To analyze and visualize regional sales performance using Microsoft Excel, Pivot
 
 ### 👨‍💻 Author:
 **Zaman Yaseen**  
-[LinkedIn](www.linkedin.com/in/hafiz-zaman-yaseen-85057b36b) • Lahore, Pakistan
+[LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/) • Lahore, Pakistan
+
