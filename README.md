@@ -44,11 +44,10 @@ To analyze and visualize regional sales performance using Microsoft Excel, Pivot
 ![Dashboard Full View](Screenshot_1.png)
 
 #### 🖼️ Screenshot 2 — Interactive Filters (Slicers & Dashboards Header)  
-![Top Filters and Slicers](Screenshot_3.png)
-
-#### 🖼️ Screenshot 3 — Charts & Insights View  
 ![Charts and Insights](Screenshot_2.png)
 
+#### 🖼️ Screenshot 3 — Charts & Insights View  
+![Top Filters and Slicers](Screenshot_3.png)
 ---
 
 ### 🧠 Key Learnings:
@@ -61,4 +60,5 @@ To analyze and visualize regional sales performance using Microsoft Excel, Pivot
 ### 👨‍💻 Author:
 **Zaman Yaseen**  
 [LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/) • Lahore, Pakistan
+
 
