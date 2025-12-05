@@ -29,6 +29,23 @@ To analyze and visualize regional sales performance using Microsoft Excel, Pivot
 | `Screenshot_2.png` | Interactive filters (slicers & dashboard header) |
 | `Screenshot_3.png` | KPI charts and insights visualization |
 
+### 🔐 How to Enable Macros (Required for Dashboard Functionality)
+
+This dashboard uses VBA to power slicer automation and KPI updates.
+If macros appear disabled after download, please follow these steps:
+
+1. Right-click the downloaded Excel file → Properties
+
+2. At the bottom, check “Unblock” (if visible)
+
+3. Click Apply
+
+4. Open the file
+
+5. In Excel, click “Enable Content” on the yellow security bar
+
+👉 Without enabling macros, automation features will not work.
+
 ---
 
 ### 📊 Dataset Information:
@@ -60,5 +77,6 @@ To analyze and visualize regional sales performance using Microsoft Excel, Pivot
 ### 👨‍💻 Author:
 **Zaman Yaseen**  
 [LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/) • Lahore, Pakistan
+
 
 
