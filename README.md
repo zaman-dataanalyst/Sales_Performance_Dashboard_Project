@@ -67,6 +67,7 @@ If macros appear disabled after download, please follow these steps:
 
 #### 🖼️ Screenshot 3 — Charts & Insights View  
 ![Top Filters and Slicers](Screenshot_3.png)
+
 ---
 
 ### 🧠 Key Learnings:
@@ -79,6 +80,7 @@ If macros appear disabled after download, please follow these steps:
 ### 👨‍💻 Author:
 **Zaman Yaseen**  
 [LinkedIn](https://www.linkedin.com/in/zaman-yaseen-85057b36b/) • Lahore, Pakistan
+
 
 
 
